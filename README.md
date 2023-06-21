@@ -1,5 +1,5 @@
 # JavaGamePlatformer
-![](res/obj/5_0OvA.gif)
+![](res/5_0OvA.gif)
 #
 
 ## Sobre o jogo
