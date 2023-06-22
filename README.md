@@ -44,10 +44,6 @@ Para fazer este projeto, precisa:
 
 # Instalação
 Depois que o download for concluído no github, você poderá iniciar o jogo de duas maneiras:
-### ✨ Por Prompt Comum (CMD):
-- Passo 1: Abra o arquivo _`src`_.
-- Etapa 2: _`Clique com o botão direito`_ uma vez e selecione _`Abrir no Terminal`_.
-- Passo 3: Digite como abaixo e divirta-se.
 
 ### ✨ Pelo Editor (VsCode, IntelliJ, Esclipe):
 É só abrir esse projeto na sua IDE, depois aproveitar 
