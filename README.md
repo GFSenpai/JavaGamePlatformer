@@ -43,10 +43,7 @@ Para fazer este projeto, precisa:
 - Recipiente: para conter as poções.
 
 # Instalação
-Depois que o download for concluído no github, você poderá iniciar o jogo de duas maneiras:
-
-### ✨ Pelo Editor (VsCode, IntelliJ, Esclipe):
-É só abrir esse projeto na sua IDE, depois aproveitar 
+Depois que o download for concluído no github, você poderá iniciar o jogo na sua IDE(VsCode, IntelliJ, Esclipe) e aproveitar
 
 ### Tutoriais e recursos
 - [Treasure Hunter - Pixel Frog](https://pixelfrog-assets.itch.io/treasure-hunters): A principal fonte de conceito inspirador e animações para este projeto, incluindo personagem principal, armas, inimigos e elementos ambientais. ..
